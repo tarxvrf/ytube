@@ -5,7 +5,7 @@
         "src": "ytube/wsgi.py",
         "use": "@vercel/python",
         "config": {
-         "maxLamdaSize":"15mb","runtime":"python3.12.6"
+        "pythonVersion": "3.12.6"
       }
       }
     ],
